@@ -15,7 +15,7 @@ public class Main {
 */
 	    int [] firstArr = {88,55,66,44,100,89};
 	    int firstNum = firstArr[0];
-        int firstMin = firstNum;
+	    int firstMin = firstNum;
 	    int secondMin = firstMin;
 
         //firstMin
