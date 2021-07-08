@@ -3,6 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
+
 /*       Test Data
          int [] firstTestData = {4,4,4,4,4};
          int [] secondTestData = {0,-1,-2,-100,1};
