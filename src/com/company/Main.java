@@ -29,7 +29,7 @@ public class Main {
             if(num == firstMin){
                 continue;
             }
-            else if(num < firstNum){         //if use firstMin then there is no less, so I use the firstNum
+            else if(num < firstNum){         //if use firstMin then there is no smaller numbs, so I use the firstNum
                 secondMin = num;
             }
         }
