@@ -12,17 +12,17 @@ public class Main {
          int [] sixthTestData = {0,1};
          int [] seventhTestData = {1};
 */
-	    int [] firstArr = {88,55,66,44,100,89};
-	    int firstNum = firstArr[0];
-        int firstMin = firstNum;
-	    int secondMin = firstMin;
+	 int [] firstArr = {88,55,66,44,100,89};
+	 int firstNum = firstArr[0];
+         int firstMin = firstNum;
+	 int secondMin = firstMin;
 
         //firstMin
-	    for (int num : firstArr ) {
-	        if(num < firstMin){
+	for (int num : firstArr ) {
+	    if(num < firstMin){
                 firstMin = num;
             }
-	    }
+	}
 
         //secondMin
         for (int num : firstArr ) {
